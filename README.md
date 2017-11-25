@@ -25,4 +25,4 @@ Aufgabe 6: 1 und 3 richtig
 
 Aufgabe 7:
 Es eignet sich das Adapter Pattern, da man die Eigenschaften des Roboters auf sein Programm anwenden will, 
-ohne das Programm des Roboters zu ändern.
+ohne den Code des Roboters zu ändern.
